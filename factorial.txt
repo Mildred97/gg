@@ -1,0 +1,4 @@
+El factorial de 1 es: (1)=1
+El factorial de 2 es: (1)(2)=2
+El factorial de 3 es: (1)(2)(3)=6
+El factorial de 4 es: (1)(2)(3)(4)=24
